@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Project Name
 
@@ -43,3 +44,6 @@ Add the commands required to start your frontend, backend and ML components.
 - Improve model performance
 - Enhance frontend experience
 - Add more ML capabilities
+=======
+# Road-accidents
+>>>>>>> b765664d6099142a73a42e3c543a36c6fb2c6622
